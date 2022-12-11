@@ -34,4 +34,11 @@ export const theme = {
     huge: '5.6rem',
     xhuge: '6.4rem',
   },
-} as const;
+};
+
+export const blackTheme = {
+  primaryColor: '#0A1128',
+  secondaryColor: '#dc143c',
+  white: '#FFFFFF',
+  mediumGray: '#DDDDDD',
+};
